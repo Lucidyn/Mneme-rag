@@ -7,7 +7,8 @@
 用 **[Mneme](https://github.com/Lucidyn/Mneme)** 做检索，用 **LangChain** 调任意 OpenAI 兼容 LLM 生成回答。  
 小而完整：不自建向量库，不引入 Agent——专注 RAG 主路径。
 
-> Mneme（谟涅摩）是本地第二大脑；本仓库是它的「问答层」。
+> Mneme（谟涅摩）是本地第二大脑；**生产用法**请直接用 [Mneme 内置问答](https://github.com/Lucidyn/Mneme#llm-配置env)。  
+> 本仓库是 **Python / LangChain 接 Mneme API** 的示例与 CLI。
 
 ```text
 问题
