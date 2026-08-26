@@ -49,7 +49,7 @@ ollama serve
 ## 安装
 
 ```bash
-git clone https://github.com/Lucidyn/mneme-rag.git
+git clone https://github.com/Lucidyn/Mneme-rag.git
 cd mneme-rag
 python3 -m venv .venv
 source .venv/bin/activate

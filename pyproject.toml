@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Lucidyn/mneme-rag"
-Repository = "https://github.com/Lucidyn/mneme-rag"
-Issues = "https://github.com/Lucidyn/mneme-rag/issues"
+Homepage = "https://github.com/Lucidyn/Mneme-rag"
+Repository = "https://github.com/Lucidyn/Mneme-rag"
+Issues = "https://github.com/Lucidyn/Mneme-rag/issues"
 "Mneme" = "https://github.com/Lucidyn/Mneme"
 
 [project.scripts]
